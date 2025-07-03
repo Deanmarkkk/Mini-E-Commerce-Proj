@@ -57,7 +57,7 @@ const products = [
 
     {
     id: 9,
-    name: 'Holder',
+    name: 'Phone Holder',
     price: 199,
     img: "https://www.truevision.com.ph/wp-content/uploads/2023/10/TVPH16-4.jpg"
     },

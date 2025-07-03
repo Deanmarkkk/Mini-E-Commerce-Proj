@@ -13,6 +13,7 @@ for (let i = 0; i < products.length; i++) {
 
     container.appendChild(card);
 }
+//ADD TO CART FUNCTION
 function addCart(id) {
 let cart = [];
 const getId = products.find((p) => p.id === id);
