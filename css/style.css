@@ -3,13 +3,14 @@ body {
     font-family: system-ui;
     margin: 0%;
 }
-h1 {
-    color: darkred;
-    font-family: fantasy;
-    font-weight: 500;
+.logo-img {
+    background-color: transparent;
+    border: none;
+    width: 50px;
+    margin-left: 10px;
 }
 header {
-    background-color: #f1eeee;
+    background-color: rgb(246, 246, 246);
     display: flex;
     justify-content: space-between;
     align-items: center;
